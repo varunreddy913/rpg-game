@@ -11,8 +11,8 @@ body{
 #game{
   padding:10px;
   background-color: grey;
-  max-width: 500px;
-  max-height: 400px;
+  max-width: 800px;
+  max-height: 700px;
   margin: 0 auto;
 }
 #stats{
