@@ -1,0 +1,41 @@
+html,body{
+  height:100%;
+}
+body{
+  height: 100%;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.zBsX-gqABXRS8hIRDAmLEgHaEK&pid=Api&P=0&h=180");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#game{
+  padding:10px;
+  background-color: grey;
+  max-width: 500px;
+  max-height: 400px;
+  margin: 0 auto;
+}
+#stats{
+  border: 1px solid black;
+  background-color: #f5f3ef;
+  padding:5px;
+}
+#controls{
+  border: 1px solid black;
+  background-color: #fdfaf7;
+  padding:5px;
+}
+#monsterstats{
+  display: none;
+  border:1px solid black;
+  background-color: #f53d3d;
+  padding:5px;
+}
+#text{
+  background-image:url("https://up.yimg.com/ib/th?id=OIP.1vgXryv6NlDzjyUHysEeewHaDt&pid=Api&rs=1&c=1&qlt=95&w=229&h=114");
+  color:white;
+  padding:10px;
+}
+.stat{
+  padding-right:10px;
+}
